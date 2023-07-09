@@ -1,0 +1,22 @@
+---
+title: "Zooms!"
+description: ""
+author:
+  - name: Leo
+    affiliation: Leader of Pack Gaskell
+date: 01-04-2023
+categories: [Scared, Friends, Home, Leo]
+citation: false
+  # url: https://leo-the-dog.netlify.app/posts/2023-07-07-leo-meets-cleo/ 
+image: hello-mum -banner.jpeg
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+---
+
+![You gonna be my mum!](hello-mum.jpeg){group="gotcha-day"}
+
+![You gonna be my mum!](hello-mum.jpeg){group="gotcha-day"}
+
+

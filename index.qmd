@@ -2,7 +2,7 @@
 about:
   template: jolla
   id: about-block
-  image: "img/cleo-comfy.JPG"
+  image: "img/head-shot.jpg"
   links:
     - icon: twitter
       text: Twitter
@@ -13,19 +13,23 @@ about:
     - icon: envelope
       text: Email
       href: "mailto:chris-gaskellhotmail.co.uk"
+filters:
+   - lightbox
+lightbox: auto
 ---
 
 ::: {#about-block}
+Leo the Lurcher
 :::
 
 # Welcome to my website!
 
-Leo is a long-time member of the \'adopt-a-pathetic-human\' campaign. He represents a descendant of a currently unknown combination of dog breeds, widely rumoured to include lurcher, staffordshire bull-terrier, and labrader (not necessarily in that order).
+Leo is a long-time member of the 'adopt-a-pathetic-human' campaign. He represents a descendant of a currently unknown combination of dog breeds, widely rumoured to include lurcher, staffordshire bull-terrier, and labrader (not necessarily in that order).
 
 His research interests include the perception of time during sleep, and the role of vigilance on reaction time in a novel brown rock catching task. He leads the Castleton Canines Facebook group, who continually monitor and police the surrounding areas. while intimidating all possible humans in the process.
 
 ```{=html}
 <div  style="margin: 30px; text-align: center;">
-<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
+<a class="btn btn-primary" href="https://leo-the-lurcher.netlify.app/" role="button" target="_blank" style="padding: 15px 30px;">You can check out my old website here</a>
 </div>
 ```

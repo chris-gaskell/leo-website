@@ -1,0 +1,23 @@
+---
+title: "Friends"
+description: ""
+author:
+  - name: Leo
+    affiliation: Leader of Pack Gaskell
+date: 07-07-2023
+categories: [Friends]
+citation: false
+  # url: https://leo-the-dog.netlify.app/posts/2023-07-07-leo-meets-cleo/ 
+image: neville/walks.jpg
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+---
+
+
+![](neville/couch.jpg){group="friends-neville"}
+
+![](neville/outside.jpg){group="friends-neville"}
+
+![](neville/walks.jpg){group="friends-neville"}

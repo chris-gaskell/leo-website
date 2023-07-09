@@ -1,31 +1,66 @@
 [
   {
+    "objectID": "collections/zooms/index.html",
+    "href": "collections/zooms/index.html",
+    "title": "Zooms!",
+    "section": "",
+    "text": "You gonna be my mum!\n\n\n\n\n\nYou gonna be my mum!"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "My Blog",
+    "section": "",
+    "text": "When Leo met Cleo\n\n\n\nCuddly\n\n\nFriends\n\n\nPlay\n\n\nLeo\n\n\n\nMy adventures in meeting ma new friend. Cleo!\n\n\n\nLeo\n\n\nJul 7, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFifth Birthday\n\n\n\nParty\n\n\nFriends\n\n\nPlay\n\n\nLeo\n\n\n\nI’m 5!\n\n\n\nLeo\n\n\nMay 10, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGoctha day\n\n\n\nScared\n\n\nFriends\n\n\nHome\n\n\nLeo\n\n\n\nI gots a new home!\n\n\n\nLeo\n\n\nJan 4, 2019\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to my website!",
+    "section": "",
+    "text": "Leo the Lurcher\n \n  \n   \n  \n    \n     Twitter\n  \n  \n    \n     Github\n  \n  \n    \n     Email\n  \n\n\n\n\nWelcome to my website!\nLeo is a long-time member of the ‘adopt-a-pathetic-human’ campaign. He represents a descendant of a currently unknown combination of dog breeds, widely rumoured to include lurcher, staffordshire bull-terrier, and labrader (not necessarily in that order).\nHis research interests include the perception of time during sleep, and the role of vigilance on reaction time in a novel brown rock catching task. He leads the Castleton Canines Facebook group, who continually monitor and police the surrounding areas. while intimidating all possible humans in the process.\n\nYou can check out my old website here"
+  },
+  {
     "objectID": "projects/index.html",
     "href": "projects/index.html",
     "title": "Projects",
     "section": "",
-    "text": "arXiv Preprint | Code\nOver the centuries, I have devoted countless hours to deciphering and translating the ancient scripts and dialects of the various peoples of Middle-earth. My goal is to gain a deeper understanding of the cultures and histories of these peoples by studying their languages. Currently, I am working on a monograph that explores the linguistic roots of the Elvish languages. Through extensive research and analysis, I hope to shed light on the connections between the different dialects of Elvish and their origins. This project has been particularly challenging, as Elvish is a complex and nuanced language, but I am determined to see it through to completion."
+    "text": "…"
   },
   {
-    "objectID": "projects/index.html#the-history-of-the-war-of-the-ring",
-    "href": "projects/index.html#the-history-of-the-war-of-the-ring",
+    "objectID": "projects/index.html#when-leo-met-cleo",
+    "href": "projects/index.html#when-leo-met-cleo",
     "title": "Projects",
-    "section": "The History of the War of the Ring",
-    "text": "The History of the War of the Ring\n\narXiv Preprint | Code\nI am creating a comprehensive and detailed history of the conflict that goes beyond the surface-level events. By gathering information from a variety of sources, including my own memories, written accounts, and oral histories, I hope to shed new light on this important period in Middle-earth’s history and provide valuable insights into the motivations and actions of the various players involved.\n\nView the tutorial for this template (+ download link)"
+    "section": "",
+    "text": "…"
+  },
+  {
+    "objectID": "posts/2023-07-07-leo-meets-cleo/index.html",
+    "href": "posts/2023-07-07-leo-meets-cleo/index.html",
+    "title": "When Leo met Cleo",
+    "section": "",
+    "text": "Cleo is great for snoozing with!\n\n\n\n\n\nI gotcha pinned down Cleo!\n\n\n\n\n\nShe got me in da choke hold\n\n\n\n\n\nWe do lots of snoozing!"
+  },
+  {
+    "objectID": "posts/2019-01-04-gotcha-day/index.html",
+    "href": "posts/2019-01-04-gotcha-day/index.html",
+    "title": "Goctha day",
+    "section": "",
+    "text": "You gonna be my mum!\n\n\n\n\n\nYou gonna be my mum!"
   },
   {
     "objectID": "photography/index.html",
     "href": "photography/index.html",
     "title": "Photography",
     "section": "",
-    "text": "View the tutorial for this template (+ download link)"
+    "text": "…\n![A Lovely Image](img/cleo-comfy.JPG)\n\n\n\n![A Lovely Image](img/cleo-comfy.JPG)\n\n\n![Cleo is great for snoozing with!](cleo-comfy.JPG){group=“leo-met-cleo”}\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ns"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Gandalf",
+    "objectID": "collections.html",
+    "href": "collections.html",
+    "title": "Collections",
     "section": "",
-    "text": "Welcome to my website!\nLeo is a long-time member of the 'adopt-a-pathetic-human' campaign. He represents a descendant of a currently unknown combination of dog breeds, widely rumoured to include lurcher, staffordshire bull-terrier, and labrader (not necessarily in that order).\nHis research interests include the perception of time during sleep, and the role of vigilance on reaction time in a novel brown rock catching task. He leads the Castleton Canines Facebook group, who continually monitor and police the surrounding areas. while intimidating all possible humans in the process.\n\nView the tutorial for this template (+ download link)"
+    "text": "Friends\n\n\n\n\n\n\n\nFriends\n\n\n\n\n\n\n\n\n\n\n\nJul 7, 2023\n\n\nLeo\n\n\n\n\n\n\n  \n\n\n\n\nZooms!\n\n\n\n\n\n\n\nScared\n\n\nFriends\n\n\nHome\n\n\nLeo\n\n\n\n\n\n\n\n\n\n\n\nJan 4, 2023\n\n\nLeo\n\n\n\n\n\n\n  \n\n\n\n\nSnoozes\n\n\n\n\n\n\n\nScared\n\n\nFriends\n\n\nHome\n\n\nLeo\n\n\n\n\nI gots a new home!\n\n\n\n\n\n\nJan 4, 2019\n\n\nLeo\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "cv/index.html",

@@ -1,0 +1,28 @@
+---
+title: "When Leo met Cleo"
+description: "My adventures in meeting ma new friend. Cleo!"
+author:
+  - name: Leo
+    affiliation: Leader of Pack Gaskell
+date: 07-07-2023
+categories: [Cuddly, Friends, Play, Leo]
+citation: false
+  # url: https://leo-the-dog.netlify.app/posts/2023-07-07-leo-meets-cleo/ 
+image: cleo-comfy.JPG
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+---
+
+![Cleo is great for snoozing with!](cleo-comfy.JPG){group="leo-met-cleo"}
+
+
+![I gotcha pinned down Cleo!](cleo-pose.JPG){group="leo-met-cleo"}
+
+
+![She got me in da choke hold](cleo-strangle.jpg){group="leo-met-cleo"}
+
+![We do lots of snoozing!](cleo-snooze.JPG){group="leo-met-cleo"}
+
+

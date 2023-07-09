@@ -1,0 +1,33 @@
+---
+title: "Fifth Birthday"
+description: "I'm 5!"
+author:
+  - name: Leo
+    affiliation: Leader of Pack Gaskell
+date: 05-10-2023
+categories: [Party, Friends, Play, Leo]
+citation: false
+  # url: https://leo-the-dog.netlify.app/posts/2023-07-07-leo-meets-cleo/ 
+image: birthday-photos/shop.jpg
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+---
+
+![](birthday-photos/ballpool.jpg){group="birthday-five"}
+
+![](birthday-photos/big-jump.jpg){group="birthday-five"}
+
+![](birthday-photos/ice-cream.jpg){group="birthday-five"}
+
+![](birthday-photos/pose.jpg){group="birthday-five"}
+
+![](birthday-photos/shop.jpg){group="birthday-five"}
+
+![](birthday-photos/slide.jpg){group="birthday-five"}
+
+![](birthday-photos/superdog.jpg){group="birthday-five"}
+
+![](birthday-photos/tongue.jpg){group="birthday-five"}
+
